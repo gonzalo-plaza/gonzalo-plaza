@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Gonzalo Plaza Rueda and I am apassionate about Software Engineering. 🚀
+My name is Gonzalo Plaza Rueda and I am passionate about Software Engineering. 🚀
 
 Living in a village in Málaga, where I've lived my entire life. 🏡
 
