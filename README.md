@@ -8,10 +8,8 @@ I am continuously learning to grow in my career and to deeply understand Softwar
 
 Welcome to my personal GitHub profile! It's a pleasure to have you here, and I hope you like it
 
-### Personal links
+[![Linkedin Profile](https://img.shields.io/badge/Linkedin%20Profile-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-p-r%2F)](https://linkedin.com/in/gonzalo-p-r/)
 
-- 🌐[**Portfolio**](https://gonzaloplazarueda.com "My personal portfolio")
-- <img src="./img/lindekin-icon.webp" width="15px" height="15px"> [ **LinkedIn**](https://linkedin.com/in/gonzalo-p-r/)
 
 ## 💻 Tech Stack
 
