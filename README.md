@@ -10,8 +10,8 @@ Welcome to my personal GitHub profile! It's a pleasure to have you here, and I h
 
 #### Personal links
 
-- [🌐**Portfolio**](https://gonzaloplazarueda.com "My personal portfolio")
-- [<img src="./img/lindekin-icon.webp" width="15px" height="15px"> **LinkedIn**](https://linkedin.com/in/gonzalo-p-r/)
+- 🌐[**Portfolio**](https://gonzaloplazarueda.com "My personal portfolio")
+- <img src="./img/lindekin-icon.webp" width="15px" height="15px"> [ **LinkedIn**](https://linkedin.com/in/gonzalo-p-r/)
 
 ## 💻 Tech Stack
 
